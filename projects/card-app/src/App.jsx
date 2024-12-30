@@ -9,7 +9,6 @@ function App() {
 
     <div className='flex flex-wrap gap-4'>
        <Navbar/>
-      <IntroCard/>
     </div>
   )
 }

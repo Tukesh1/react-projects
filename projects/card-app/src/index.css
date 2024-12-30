@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --content-offset: 50px; /* or any value you need */
+}
 body {
   margin: 0;
   padding: 0;
@@ -9,6 +12,5 @@ body {
 }
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #2d2c2c;
-  place-content: center;
+  background-color: #19191B;
 }
